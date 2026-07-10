@@ -1,0 +1,7 @@
+{
+  "name": "for-jiaa",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html happy-birthday-jiaa.html poem-for-jiaa.txt dist/"
+  }
+}
